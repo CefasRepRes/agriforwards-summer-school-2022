@@ -8,7 +8,7 @@ summer school is being organised by UEA and Cefas to provide training
 and development for AgriFoRwArdS CDT students.
 
 - [ ] Confirm student numbers (30?)
-- [ ] Confirm date - 4th - 8th June 2022.
+- [ ] Confirm date - 4th - 8th July 2022.
 
 The event will include [a challenge](challenge.md), a trip to
 [Cefas](cefas.md), a trip to the Norfolk Broads, various
