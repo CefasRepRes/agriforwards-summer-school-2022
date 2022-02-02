@@ -317,3 +317,9 @@ before diving into the detail.
 - [x] Confirm accommodation availability.
 - [ ] Book UEA accommodation for Rob please.
 - [ ] Ask students for their GitHub accounts.
+
+## References
+
+[The good fish guide](https://www.mcsuk.org/goodfishguide/) published by the Marine Conservation Society.
+
+
