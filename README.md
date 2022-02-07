@@ -135,8 +135,9 @@ Use a robot arm to cast a line, catch a fish and land it.
 - [ ] What tools are there for simulating robot arms? Ask Lincoln (RH)
 - [ ] Book the robotic equipment.
 - [ ] Find out how to program the UEA robot arms.
+- [ ] Can we get hold of some rods and line?
 - [ ] Can we get some model fishes?
-- [ ] Can we get somebody to demonstrate line fishing?
+- [ ] Can we get somebody to demonstrate line fishing? Could the students have a go?
 
 ### Notes
 
