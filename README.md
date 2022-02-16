@@ -20,6 +20,35 @@ For each module we want two people - a domain expert and an engineer.
 
 This document is a work in progress.
 
+## TODO Next
+
+- [ ] Michal to book Graham Finlayson.
+- [ ] Mavis, Kate and Richard to meet and allocate students to modules
+- [ ] Rob to figure out risk assessment to allow Cefas people to go boating on The Broads
+- [ ] Julie to confirm booking of Cefas facilities on Tuesday 5th July 2022
+- [ ] Richard to follow up with with Productivity East to confirm our requirements
+- [ ] Richard and Julie to talk urgently to the student who has objections to killing fish
+
+- [ ] What tools are there for simulating robot arms? Ask Lincoln (RH)
+- [ ] Book the robotic equipment.
+- [ ] Find out how to program the UEA robot arms. (RH)
+- [ ] Ask the Holbeach National Centre for Food Manufacturing (Mark Swainson) for advice (RH).
+
+- [ ] Firm up the timetable
+
+## TODO Backlog
+
+- [ ] Invite an audience for the presentations.
+- [ ] Mavis to organise breakfast, lunch and dinner each day
+- [ ] Firm up on coach booking
+- [ ] Book the Broads Education Officer
+- [ ] Book the Broads transport
+- [ ] Book the Broads boat trip
+- [ ] Book UEA accommodation (+ for Rob and other supervisors?)
+- [ ] Ask students for their GitHub accounts.
+
+Also see todo items scattered amongst the text below.
+
 ## Timetable
 
 |                      |                                                                                                          |
@@ -27,18 +56,20 @@ This document is a work in progress.
 |        **Monday AM** | Students arrive and check in.                                                                            |
 |               **PM** | Pizza / buffet style lunch.                                                                              |
 |                      | Welcome and introductions. (RH)                                                                          |
-|                      | Introduction to Cefas (JB)                                                                               |
+|                      | Introduction to Cefas (JB, KH)                                                                           |
 |                      | Introduction to [the challenge](#the-challenge). (RH)                                                    |
 |                      | Get into [teams](#teams) and build a simple, one page company [launch website](#corporate-website-task). |
-|   **Tuesday** **AM** | Train to Lowestoft for a full day at [Cefas](http://www.cefas.co.uk).                                    |
-|                      | Visit the MIsT team to see kit. Visit to RAP team?                                                                          |
+|   **Tuesday** **AM** | Bus to Lowestoft for a full day at [Cefas](http://www.cefas.co.uk).                                      |
+|                      | Visit the MIsT team to see kit. Visit to RAP team?                                                       |
 |                      | Work on [the challenge](#the-challenge) assisted by Cefas experts                                        |
+|                      | Brown bag lunch from a local caterer TBD                                                                 |
 |               **PM** | Talk: Graham Finlayson on entrepreneurship.                                                              |
-|                      | [Show and tell talks](#cefas).    TBD                                                                       |
+|                      | [Show and tell talks](#cefas).    TBD                                                                    |
 |                      | Evening: Rounders / Frisbee / Football on the beach. OR work on the challenge  (weather dependent)       |
 |                      | Take away fish and chips eaten outside OR in Cefas (weather dependent)                                   |
 |                      | Bus back to UEA                                                                                          |
 | **Wednesday** **AM** | An unannounced [media crisis](#media-training).  (RH)                                                    |
+|                      | Talk about networking (RH)                                                                               |
 |               **PM** | [Trip to The Norfolk Broads](#norfolk-broads).                                                           |
 |  **Thursday** **AM** | Work on [the challenge](#the-challenge).                                                                 |
 |               **PM** | Early evening presentations to an invited audience, dinner and a few beers.                              |
@@ -47,9 +78,6 @@ This document is a work in progress.
 |                      | Roundtable reflections, discussions, Q and A.                                                            |
 |                      | Close. Packets of sandwiches to go.                                                                      |
 
-- [ ] Michal to book Graham Finlayson.
-- [ ] Invite an audience for the presentations.
-- [ ] Mavis to organise breakfast, lunch and dinner each day
 
 ## The-challenge
 
@@ -98,19 +126,19 @@ prototypes to an assembled audience on Thursday evening.
 
 ## The fish finder
 
-- [ ] Decide whether this option is a goer.
+
+- [ ] Rob to flesh this out a bit more
 
 ### Introduction
 
 Software must navigate the (autonomous?) vessel to the fishing
-grounds, considering collision avoidance and selecting the most
-profitable areas to fish.
+grounds, considering collision avoidance and minimising fuel costs.
 
 ### Task
 
 Given data about bathymetry, windfarms and shipping (AIS), determine
-an optimal fishing location and plot a route to get there. Show your
-results in a GIS system.
+an optimal fishing location and plot a passage plan. Show your results
+on a map.
 
 ### Notes
 
@@ -119,10 +147,12 @@ grounds and the factors affecting fish abundance etc (Jeroen?)
 
 This could be an interesting modelling, data science and GIS exercise.
 
+Could involve aspects of fleet robotics, safety, weather, logistics.
+
 ## The fish catcher
 
 - [ ] RH to lead on this until we appoint a module owner
-- [ ] Ask Kieran Hyder to advise on line fishing aspects
+- [x] Ask Kieran Hyder to advise on line fishing aspects
 
 ### Introduction
 
@@ -208,11 +238,11 @@ Safety issues.
 
 ### Introduction
 
-Once the fish is cooked you need to serve it and take the money.
+You need to market the product and manage supply and demand.
 
 ### Task
 
-Program a robot to wrap up the fish and chips in newspaper.
+A web app - RH TBD
 
 ## Media training
 
@@ -239,8 +269,6 @@ Feedback, discussion and training.
 
 ## Cefas
 
-- [x] Reserve Cefas lecture theatre.
-
 - [ ] Julie to consider the list of speakers and topics
 - [ ] Can we get a Cefas talk on sustainable fishing /  Issues around fish and chips?
 
@@ -265,6 +293,8 @@ Jon Hawes / John Sperry (marine underwater imagery)?
 The value chain for fish. What can I buy a sea bass for on the
 quayside? What are the volume discounts? How much would I pay at the
 supermarket? At a fishmonger? At a London restaurant?
+
+Aspects of ethics, sustainability, nutrition, animal welfare etc.
 
 ## Norfolk Broads
 
@@ -311,18 +341,23 @@ presentation).
 The intention is to get the students to consider the whole project
 before diving into the detail.
 
-## Other
-
-- [x] Confirm numbers - 28
-- [x] Confirm dates
-- [x] Confirm accommodation availability.
-- [ ] Book UEA accommodation for Rob please.
-- [ ] Ask students for their GitHub accounts.
-
 ## References
 
 [The good fish guide](https://www.mcsuk.org/goodfishguide/) published by the Marine Conservation Society.
 
 [Technological innovations in the recreational fishing sector: implications for fisheries management and policy](https://link.springer.com/article/10.1007/s11160-021-09643-1)
 
+## Done 20220202
 
+- [x] Confirm numbers - 28
+- [x] Confirm dates
+- [x] Confirm accommodation availability.
+- [x] Reserve Cefas lecture theatre. JB
+
+## Done 20220216
+
+Kieran Hyder (Cefas) now onboard to advise on fishing aspects.
+
+- [x] We decided that the fish finder / navigation is worth pursuing
+
+We decided not to use the train. Mavis has lined up a 33 seater coach.
