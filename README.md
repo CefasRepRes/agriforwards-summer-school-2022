@@ -28,6 +28,7 @@ This document is a work in progress.
 - [ ] Julie to confirm booking of Cefas facilities on Tuesday 5th July 2022
 - [ ] Richard to follow up with with Productivity East to confirm our requirements
 - [ ] Richard and Julie to talk urgently to the student who has objections to killing fish
+- [ ] Look around Productivity East - perhaps hold the next meeting there
 
 - [ ] What tools are there for simulating robot arms? Ask Lincoln (RH)
 - [ ] Book the robotic equipment.
@@ -51,32 +52,32 @@ Also see todo items scattered amongst the text below.
 
 ## Timetable
 
-|                      |                                                                                                          |
-|---------------------:|:---------------------------------------------------------------------------------------------------------|
-|        **Monday AM** | Students arrive and check in.                                                                            |
-|               **PM** | Pizza / buffet style lunch.                                                                              |
-|                      | Welcome and introductions. (RH)                                                                          |
-|                      | Introduction to Cefas (JB, KH)                                                                           |
-|                      | Introduction to [the challenge](#the-challenge). (RH)                                                    |
-|                      | Get into [teams](#teams) and build a simple, one page company [launch website](#corporate-website-task). |
-|   **Tuesday** **AM** | Bus to Lowestoft for a full day at [Cefas](http://www.cefas.co.uk).                                      |
-|                      | Visit the MIsT team to see kit. Visit to RAP team?                                                       |
-|                      | Work on [the challenge](#the-challenge) assisted by Cefas experts                                        |
-|                      | Brown bag lunch from a local caterer TBD                                                                 |
-|               **PM** | Talk: Graham Finlayson on entrepreneurship.                                                              |
-|                      | [Show and tell talks](#cefas).    TBD                                                                    |
-|                      | Evening: Rounders / Frisbee / Football on the beach. OR work on the challenge  (weather dependent)       |
-|                      | Take away fish and chips eaten outside OR in Cefas (weather dependent)                                   |
-|                      | Bus back to UEA                                                                                          |
-| **Wednesday** **AM** | An unannounced [media crisis](#media-training).  (RH)                                                    |
-|                      | Talk about networking (RH)                                                                               |
-|               **PM** | [Trip to The Norfolk Broads](#norfolk-broads).                                                           |
-|  **Thursday** **AM** | Work on [the challenge](#the-challenge).                                                                 |
-|               **PM** | Early evening presentations to an invited audience, dinner and a few beers.                              |
-|    **Friday** **AM** | Presentation feedback.                                                                                   |
-|                      | Talk: How to convert this to a real businesses - funding, marketing (GF? RH?).                           |
-|                      | Roundtable reflections, discussions, Q and A.                                                            |
-|                      | Close. Packets of sandwiches to go.                                                                      |
+|                  |                                                                                                          |
+|-----------------:|:---------------------------------------------------------------------------------------------------------|
+|       **Mon AM** | Students arrive and check in.                                                                            |
+|           **PM** | Pizza / buffet style lunch.                                                                              |
+|                  | Welcome and introductions. (RH)                                                                          |
+|                  | Introduction to Cefas (JB, KH)                                                                           |
+|                  | Introduction to [the challenge](#the-challenge). (RH)                                                    |
+|                  | Get into [teams](#teams) and build a simple, one page company [launch website](#corporate-website-task). |
+|  **Tues** **AM** | Bus to Lowestoft for a full day at [Cefas](http://www.cefas.co.uk).                                      |
+|                  | Visit the MIsT team to see kit. Visit to RAP team?                                                       |
+|                  | Work on [the challenge](#the-challenge) assisted by Cefas experts                                        |
+|                  | Brown bag lunch from a local caterer TBD                                                                 |
+|           **PM** | Talk: Graham Finlayson on entrepreneurship.                                                              |
+|                  | [Show and tell talks](#cefas).    TBD                                                                    |
+|                  | Evening: Rounders / Frisbee / Football on the beach. OR work on the challenge  (weather dependent)       |
+|                  | Take away fish and chips eaten outside OR in Cefas (weather dependent)                                   |
+|                  | Bus back to UEA                                                                                          |
+|  **Weds** **AM** | An unannounced [media crisis](#media-training).  (RH)                                                    |
+|                  | Talk about networking (RH)                                                                               |
+|           **PM** | [Trip to The Norfolk Broads](#norfolk-broads).                                                           |
+| **Thurs** **AM** | Work on [the challenge](#the-challenge).                                                                 |
+|           **PM** | Early evening presentations to an invited audience, dinner and a few beers.                              |
+|   **Fri** **AM** | Presentation feedback.                                                                                   |
+|                  | Talk: How to convert this to a real businesses - funding, marketing (GF? RH?).                           |
+|                  | Roundtable reflections, discussions, Q and A.                                                            |
+|                  | Close. Packets of sandwiches to go.                                                                      |
 
 
 ## The-challenge
@@ -175,7 +176,7 @@ Line catching for sustainability.
 
 ## The fish sorter
 
-[x] Michal to design, build and lead this module which could have
+- [x] Michal to design, build and lead this module which could have
 three sub-groups.
 
 ### Introduction
