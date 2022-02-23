@@ -22,7 +22,7 @@ This document is a work in progress.
 
 ## TODO Next
 
-- [ ] Michal to book Graham Finlayson.
+- [x] Michal to book Graham Finlayson. Only availability is 4th July.
 - [ ] Mavis, Kate and Richard to meet and allocate students to modules
 - [ ] Rob to figure out risk assessment to allow Cefas people to go boating on The Broads
 - [ ] Julie to confirm booking of Cefas facilities on Tuesday 5th July 2022
@@ -47,6 +47,7 @@ This document is a work in progress.
 - [ ] Book the Broads boat trip
 - [ ] Book UEA accommodation (+ for Rob and other supervisors?)
 - [ ] Ask students for their GitHub accounts.
+- [ ] WiFi access at Cefas?
 
 Also see todo items scattered amongst the text below.
 
@@ -59,12 +60,12 @@ Also see todo items scattered amongst the text below.
 |                  | Welcome and introductions. (RH)                                                                          |
 |                  | Introduction to Cefas (JB, KH)                                                                           |
 |                  | Introduction to [the challenge](#the-challenge). (RH)                                                    |
-|                  | Get into [teams](#teams) and build a simple, one page company [launch website](#corporate-website-task). |
+|            15:00 | Talk: Graham Finlayson on entrepreneurship.                                                              |
 |  **Tues** **AM** | Bus to Lowestoft for a full day at [Cefas](http://www.cefas.co.uk).                                      |
 |                  | Visit the MIsT team to see kit. Visit to RAP team?                                                       |
+|                  | Get into [teams](#teams) and build a simple, one page company [launch website](#corporate-website-task). |
 |                  | Work on [the challenge](#the-challenge) assisted by Cefas experts                                        |
-|                  | Brown bag lunch from a local caterer TBD                                                                 |
-|           **PM** | Talk: Graham Finlayson on entrepreneurship.                                                              |
+|           **PM** | Brown bag lunch from a local caterer TBD                                                                 |
 |                  | [Show and tell talks](#cefas).    TBD                                                                    |
 |                  | Evening: Rounders / Frisbee / Football on the beach. OR work on the challenge  (weather dependent)       |
 |                  | Take away fish and chips eaten outside OR in Cefas (weather dependent)                                   |
@@ -75,7 +76,7 @@ Also see todo items scattered amongst the text below.
 | **Thurs** **AM** | Work on [the challenge](#the-challenge).                                                                 |
 |           **PM** | Early evening presentations to an invited audience, dinner and a few beers.                              |
 |   **Fri** **AM** | Presentation feedback.                                                                                   |
-|                  | Talk: How to convert this to a real businesses - funding, marketing (GF? RH?).                           |
+|                  | Talk: How to convert this to a real businesses - funding, marketing (RH?).                               |
 |                  | Roundtable reflections, discussions, Q and A.                                                            |
 |                  | Close. Packets of sandwiches to go.                                                                      |
 
