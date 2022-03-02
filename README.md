@@ -5,8 +5,8 @@
 The
 [AgriFoRwArdS](https://www.uea.ac.uk/research/research-with-us/postgraduate-research/latest-phds-and-research-studentships/partnerships-in-doctoral-training/agriforwards)
 summer school is being organised by UEA and Cefas to provide training
-and development for AgriFoRwArdS CDT students. There are 28
-students. The dates are confirmed as 4th - 8th July 2022.
+and development for 28 AgriFoRwArdS CDT students. Based at The UEA in
+Norwich, the dates are confirmed as 4th - 8th July 2022.
 
 The event will include [a challenge](#the-challenge), a trip to
 [Cefas](#cefas), a trip to the [Norfolk Broads](#norfolk-broads), various
@@ -22,20 +22,45 @@ This document is a work in progress.
 
 ## TODO Next
 
-- [x] Michal to book Graham Finlayson. Only availability is 4th July.
-- [ ] Mavis, Kate and Richard to meet and allocate students to modules
-- [ ] Rob to figure out risk assessment to allow Cefas people to go boating on The Broads
-- [ ] Julie to confirm booking of Cefas facilities on Tuesday 5th July 2022
-- [ ] Richard to follow up with with Productivity East to confirm our requirements
-- [ ] Richard and Julie to talk urgently to the student who has objections to killing fish
-- [ ] Look around Productivity East - perhaps hold the next meeting there
+- [x] Michal to book Graham Finlayson. Only availability is 4th
+      July. Rob has sent a meeting invite, but no confirmation
+      received.
 
-- [ ] What tools are there for simulating robot arms? Ask Lincoln (RH)
+- [x] Mavis, Kate and Richard to meet and allocate students to
+      modules.
+
+- [ ] Questions about gender balance etc. in the allocations.
+
+- [ ] Rob to figure out risk assessment to allow Cefas people to go
+      boating on The Broads. Discussions ongoing
+
+- [ ] Julie to confirm booking of Cefas facilities on Tuesday 5th July
+      2022
+
+- [ ] Richard to follow up with with Productivity East to confirm our
+      requirements.
+
+- [ ] Richard and Julie to talk urgently to the student who has
+      objections to killing fish.
+
+- [ ] Look around Productivity East - perhaps hold the next meeting
+      there.
+
+- [ ] What tools are there for simulating robot arms? Ask Lincoln
+      (RH).
+
 - [ ] Book the robotic equipment.
-- [ ] Find out how to program the UEA robot arms. (RH)
-- [ ] Ask the Holbeach National Centre for Food Manufacturing (Mark Swainson) for advice (RH).
+
+- [ ] Find out how to program the UEA robot arms. (RH).
+
+- [ ] Ask the Holbeach National Centre for Food Manufacturing (Mark
+      Swainson) for advice (RH).
 
 - [ ] Firm up the timetable
+
+- [ ] Can we firm up on the Broads trip? Who at the Broads Authority
+      should we speak to? Which boat would we use? KH could put us in
+      touch with somebody unless RH knows?
 
 ## TODO Backlog
 
@@ -85,13 +110,19 @@ Also see todo items scattered amongst the text below.
 
 ### Introduction
 
-Imagine you are forming a start-up company to design and build a robot
-that catches fish and serves up fish and chips.
+Imagine you are forming a start-up company that aims to design, build
+and operate a fleet of robots to catch fish and serve up fish and
+chips.
+
+Fishing is one of the most dangerous occupations.
+
+Managed correctly, aquatic environments are an important source of
+food.
 
 ### Concept
 
-The robot fits onto the back of an existing leisure boat or an
-unmanned autonomous vessel.
+The system consists of a robot arm onboard an unmanned autonomous
+vessel.
 
 When the boat is at sea, the robot uses line fishing to catch and land
 the fish.
@@ -105,13 +136,13 @@ fresh fish and chips to be served on the quayside.
 
 ### Design
 
-In order to receive investment, X modules must be designed, prototyped
-and demonstrated this week:
+In order to receive investment, five modules must be designed,
+prototyped and demonstrated this week:
 
-0. [The fish finder](#the-fish-finder) an option for consideration
+0. [The fish finder](#the-fish-finder)
 1. [The fish catcher](#the-fish-catcher)
-2. [The fish sorter](#the-fish-sorter) could support three sub groups
-3. [The cooker](#the-cooker)
+2. [The fish sorter](#the-fish-sorter)
+3. [The fish cooker](#the-cooker)
 4. [The fish seller](#the-fish-seller) an option for consideration
 
 - [ ] Finalise the list of modules.
@@ -128,19 +159,32 @@ prototypes to an assembled audience on Thursday evening.
 
 ## The fish finder
 
-
-- [ ] Rob to flesh this out a bit more
-
 ### Introduction
 
-Software must navigate the (autonomous?) vessel to the fishing
-grounds, considering collision avoidance and minimising fuel costs.
+Software must navigate the autonomous vessel to the fishing grounds,
+considering collision avoidance and minimising fuel costs.
+
+- [ ] Rob to flesh this out a bit more detail and consult Kieran to
+      try to make it realistic or at least plausible.
 
 ### Task
 
 Given data about bathymetry, windfarms and shipping (AIS), determine
 an optimal fishing location and plot a passage plan. Show your results
 on a map.
+
+- [ ] Rob to explore UKHO and other GIS data sets. Contact Paulette
+      Posen (insight project, wrecks, GIS layers etc).
+
+AIS data?
+
+Consider using some kind of constraint satisfaction / linear
+optimisation framework? Random utility models are used in
+economics. Variables include cost, distance, probability etc.
+
+Fishing grounds are dependent on habitat, tidal aspects etc. but we
+will probably just use poetic licence and make up some suitable
+location. Also which species? Bait hook and line? etc.
 
 ### Notes
 
@@ -153,12 +197,17 @@ Could involve aspects of fleet robotics, safety, weather, logistics.
 
 ## The fish catcher
 
-- [ ] RH to lead on this until we appoint a module owner
+- [ ] RH to lead on this or appoint a module owner
 - [x] Ask Kieran Hyder to advise on line fishing aspects
 
 ### Introduction
 
 This robot must cast a line, catch a fish and land it.
+
+KH Notes that line casting is hard, so we may wish to simplify the
+problem using jogging arms, general bait fishing and electric
+reels. Perhaps considering mixed fishing, bottom bait cod / whiting /
+flatfish.
 
 ### Task
 
@@ -177,39 +226,32 @@ Line catching for sustainability.
 
 ## The fish sorter
 
-- [x] Michal to design, build and lead this module which could have
-three sub-groups.
-
 ### Introduction
 
-This robot must use a vision system to sort wanted fish from bycatch.
+This robot must use a vision system to sort wanted fish from
+bycatch. As such it needs segmentation, classification and
+measurement.
 
-### Task A
+- [x] Michal to design, build and lead this module which could have
+      sub-groups.
 
-- [ ] Michal to propose a machine learning, fish classification exercise
-
-### Task B
-
-- [ ] Michal to propose a machine learning, fish classification exercise
-
-### Task C
-
-- [ ] Michal to propose a machine learning, fish classification exercise
+KH Notes that images are from general demersal fishery - cod, haddock
+, whiting etc.
 
 ### Notes
 
 Computer vision / image processing problem.
 
 Task variations include - dealing with bias / class imbalance. Image
-augmentation. Different cameras etc.
+augmentation. Different cameras etc. Segmentation. Measurement,
 
 ## The Cooker
-
-- [ ] RH to lead on this until we appoint a module owner
 
 ### Introduction
 
 This robot must fillet the fish and cook it with chips.
+
+- [ ] RH to lead on this or appoint a module owner
 
 ### Task
 
@@ -236,13 +278,20 @@ Safety issues.
 
 ## The fish seller
 
-- [ ] Decide whether this option is a goer.
-
 ### Introduction
 
 You need to market the product and manage supply and demand.
 
+- [ ] Decide whether this option is a goer.
+- [ ] RH to lead on this or appoint a module owner
+
 ### Task
+
+KH Notes that there are a number of apps that connect individual
+fishers with markets. E.g. [Abalobi](http://abalobi.org) . KH could
+put us in touch with the founder.
+
+- [ ] Firm up this idea
 
 A web app - RH TBD
 
