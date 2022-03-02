@@ -22,20 +22,10 @@ This document is a work in progress.
 
 ## TODO Next
 
-- [x] Michal to book Graham Finlayson. Only availability is 4th
-      July. Rob has sent a meeting invite, but no confirmation
-      received.
-
-- [x] Mavis, Kate and Richard to meet and allocate students to
-      modules.
-
 - [ ] Questions about gender balance etc. in the allocations.
 
 - [ ] Rob to figure out risk assessment to allow Cefas people to go
       boating on The Broads. Discussions ongoing
-
-- [ ] Julie to confirm booking of Cefas facilities on Tuesday 5th July
-      2022
 
 - [ ] Richard to follow up with with Productivity East to confirm our
       requirements.
@@ -397,6 +387,19 @@ before diving into the detail.
 [The good fish guide](https://www.mcsuk.org/goodfishguide/) published by the Marine Conservation Society.
 
 [Technological innovations in the recreational fishing sector: implications for fisheries management and policy](https://link.springer.com/article/10.1007/s11160-021-09643-1)
+
+## Done 20220302
+
+- [x] Michal to book Graham Finlayson. Only availability is 4th
+      July. Rob has sent a meeting invite, but no confirmation
+      received.
+
+- [x] Mavis, Kate and Richard to meet and allocate students to
+      modules.
+
+- [x] Julie to confirm booking of Cefas facilities on Tuesday 5th July
+      2022
+
 
 ## Done 20220202
 
