@@ -20,6 +20,12 @@ For each module we want two people - a domain expert and an engineer.
 
 This document is a work in progress.
 
+## Priorities
+
+- [ ] Firm up the [timetable](#timetable) so that resources can be booked
+
+- [ ] Allocate leaders to [modules](#design) so that they can proceed independently
+
 ## TODO Next
 
 - [ ] Questions about gender balance etc. in the allocations.
