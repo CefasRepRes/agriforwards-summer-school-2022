@@ -19,53 +19,55 @@ This document is a work in progress.
 
 ## Richard TODO
 
-- [ ] RH to book a venue (Productivity East?)
+- [ ] RH to book a venue (Productivity East?) (20220401)
 
-- [ ] RH to "sign off" on the [timetable](#timetable)
+- [ ] RH to "sign off" on the [timetable](#timetable) (20220401)
 
-- [ ] RH to appoint a robotocist to develop and lead the [The fish catcher](#the-fish-catcher) module (Lincoln?)
+- [ ] RH to appoint a robotocist to develop and lead the [The fish catcher](#the-fish-catcher) module (Lincoln?) (20220401)
 
-- [ ] RH to appoint a robotocist to develop and lead the [The fish cooker](#the-cooker) module (Mark Swainson, Holbeach?)
+- [ ] RH to appoint a robotocist to develop and lead the [The fish cooker](#the-cooker) module (Mark Swainson, Holbeach?) (20220401)
 
-- [ ] RH to develop and lead, or appoint somebody for  [The fish seller](#the-fish-seller) module
+- [ ] RH to develop and lead, or appoint somebody for  [The fish seller](#the-fish-seller) module (20220401)
 
-- [ ] RH to invite a small UEA audience for the presentations.
+- [ ] RH to arrange any audio / visual equipment for media training (20220501)
 
-- [ ] RH to arrange any audio / visual equipment for media training
+- [ ] RH to invite a small UEA audience for the presentations. (20220601)
+
 
 ## Rob TODO
 
-- [ ] RB to develop and lead the [The fish finder](#the-fish-finder) module
+- [ ] RB to arrange passes for the Cefas day (Regeneration team?)  (20220401)
 
-- [ ] RB to develop and lead the [launch website](#corporate-website-task) activity
+- [ ] RB to speak to Keith Winpenny to see if his team can run some demos. (20220401)
 
-- [ ] RB to arrange passes for the Cefas day (Regeneration team?)
+- [ ] RB to develop and lead the [The fish finder](#the-fish-finder) module (20220601)
 
-- [ ] RB to speak to Keith Winpenny to see if his team can run some demos.
+- [ ] RB to develop and lead the [launch website](#corporate-website-task) activity (20220601)
 
-- [ ] RB to confirm WiFi access instructions at Cefas?
+- [ ] RB to invite a small Cefas audience for the presentations (20220601)
 
-- [ ] RB to invite a small Cefas audience for the presentations
+- [ ] RB to confirm WiFi access instructions at Cefas? (20220701)
+
 
 ## Michal TODO
 
-- [ ] MM to develop and lead [The fish sorter](#the-fish-sorter) module.
+- [ ] MM to develop and lead [The fish sorter](#the-fish-sorter) module. (20220601)
 
-## Julie
+## Julie TODO
 
-- [ ] JB to firm up the Cefas talks, visits and demonstration
+- [ ] JB to speak to Martin Wyberg about visits / demos (20220401)
 
-- [ ] JB (or RB with help) to arrange coffee etc.
+- [ ] JB to speak to Sara about possible drone demo (20220401)
 
-- [ ] JB to ensure that John Pinnegar and Kieran Hyder are fully briefed for their day one intros.
+- [ ] JB to send Cefas logos to Mavis (20220401)
 
-- [ ] JB to speak to Martin Wyberg about visits / demos
+- [ ] JB to firm up the Cefas talks, visits and demonstration (20220401)
 
-- [ ] JB to speak to Sara about possible drone demo
+- [ ] JB (or RB with help) to arrange coffee etc. (20220501)
 
-- [ ] JB to send Cefas logos to Mavis
+- [ ] JB to ensure that John Pinnegar and Kieran Hyder are fully briefed for their day one intros. (20220601)
 
-## Mavis
+## Mavis TODO
 
 - [ ] MF to organise breakfast, lunch and dinner each day
 
@@ -74,8 +76,6 @@ This document is a work in progress.
 - [ ] MF to book UEA accommodation (+ for Rob and other supervisors?)
 
 - [ ] MF Student registration form
-
-
 
 ## Timetable
 
