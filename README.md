@@ -1,4 +1,5 @@
-# AgriFoRwArdS summer school
+
+![summer_school_edited_with Cefas logo](https://user-images.githubusercontent.com/92549927/160562497-0db6e838-ae7b-4322-9550-0e99310f4649.png)
 
 ## Introduction
 
