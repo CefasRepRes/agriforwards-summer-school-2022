@@ -13,16 +13,9 @@ The event will include [a challenge](#the-challenge), a trip to
 [Cefas](#cefas), various talks, media training, entrepreneurship and
 presentations. Please see the [timetable](#timetable).
 
-
-For each module we want two people - a domain expert and an engineer.
-
 This document is a work in progress.
 
 ## Richard TODO
-
-- [ ] RH to book a venue (Productivity East?) (20220401)
-
-- [ ] RH to "sign off" on the [timetable](#timetable) (20220401)
 
 - [ ] RH to appoint a robotocist to develop and lead the [The fish catcher](#the-fish-catcher) module (Lincoln?) (20220401)
 
@@ -30,16 +23,17 @@ This document is a work in progress.
 
 - [ ] RH to develop and lead, or appoint somebody for  [The fish seller](#the-fish-seller) module (20220401)
 
-- [ ] RH to arrange any audio / visual equipment for media training (20220501)
-
-- [ ] RH to invite a small UEA audience for the presentations. (20220601)
-
+- [ ] RH to work on some of the wording for the challenge, refining what's written below
 
 ## Rob TODO
 
-- [ ] RB to arrange passes for the Cefas day (Regeneration team?)  (20220401)
+- [ ] RB + JB to arrange passes for the Cefas day (Regeneration team?)  (20220401)
 
-- [ ] RB to speak to Keith Winpenny to see if his team can run some demos. (20220401)
+- [ ] RB + JB to suggest to MF a local caterer for coffee and brown bag lunch
+
+- [ ] RB + JB to book fish n chips for evening
+
+- [x] RB to speak to Keith Winpenny to see if his team can run some demos. (20220401)
 
 - [ ] RB to develop and lead the [The fish finder](#the-fish-finder) module (20220601)
 
@@ -56,6 +50,8 @@ This document is a work in progress.
 
 ## Julie TODO
 
+- [ ] JB to advise Rob on catering and facilitation whilst at Cefas
+
 - [ ] JB to speak to Martin Wyberg about visits / demos (20220401)
 
 - [ ] JB to speak to Sara about possible drone demo (20220401)
@@ -64,13 +60,23 @@ This document is a work in progress.
 
 - [ ] JB to firm up the Cefas talks, visits and demonstration (20220401)
 
-- [ ] JB (or RB with help) to arrange coffee etc. (20220501)
-
 - [ ] JB to ensure that John Pinnegar and Kieran Hyder are fully briefed for their day one intros. (20220601)
 
 ## Mavis TODO
 
-- [ ] MF to organise breakfast, lunch and dinner each day
+- [ ] MF to schedule a visit to Productivity East, to meet the people and plan usage.
+
+- [ ] MF to look at Sainsburys Centre as a venue for the
+      presentations + dinner. Can they facilitate a Zoom for others to
+      dial in?
+
+- [ ] MF to look further at booking a company for media training - could be 1 day
+
+- [ ] Book restaurant in Norwich and transport for Wednesday evening.
+
+- [ ] MF to organise breakfast, lunch and dinner vouchers
+
+- [ ] MF to book Lowestoft caterer for coffee and lunch (Tuesday) (Rob to suggest)
 
 - [ ] MF to book coach for Cefas day
 
@@ -80,47 +86,52 @@ This document is a work in progress.
 
 ## Timetable
 
-|               |                                                                                                          |
-|--------------:|:---------------------------------------------------------------------------------------------------------|
-|    **Monday** |                                                                                                          |
-|               | Students arrive and check in.                                                                            |
-| 12:00 - 13:00 | Pizza / buffet style lunch.                                                                              |
-| 13:00 - 14:00 | Welcome and introductions. (RH)                                                                          |
-|               | Introduction to Cefas (John Pinnegar, Kieran Hyder)                                                                           |
-|               | Introduction to [the challenge](#the-challenge). (RH)                                                    |
-| 14:00 - 15:00 | Get into [teams](#teams) and build a simple, one page company [launch website](#corporate-website-task). |
-| 15:00 - 16:00 | Talk: Graham Finlayson on entrepreneurship.                                                              |
-| 16:00 - 17:00 | Finish website work                                                                                      |
-|               |                                                                                                          |
-|   **Tuesday** |                                                                                                          |
-| 08:30 - 09:30 | Bus to Lowestoft for a full day at [Cefas](http://www.cefas.co.uk).                                      |
-| 09:30 - 10:00 | Coffe on arrival                                                                                         |
-|    10:00:1230 | [Show and tell talks](#cefas).    TBD                                                                    |
-|               | Drone demo?                                                                                              |
-|               |                                                                                                          |
-| 12:30 - 13:30 | Brown bag lunch from a local caterer TBD                                                                 |
-| 13:30 - 16:00 | Work on [the challenge](#the-challenge) assisted by Cefas experts                                        |
-|         16:00 | Evening: Rounders / Frisbee / Football on the beach. OR work on the challenge  (weather dependent)       |
-|               | Take away fish and chips eaten outside OR in Cefas (weather dependent)                                   |
-|         19:30 | Bus back to UEA                                                                                          |
-|               |                                                                                                          |
-| **Wednesday** |                                                                                                          |
-| 09:00 - 12:30 | An unannounced [media crisis](#media-training).  (RH)                                                    |
-|               | Talk about networking (RH)                                                                               |
-| 12:30 - 13:30 | Lunch (vouchers?)                                                                                        |
-| 13:30 - 17:00 | Work on [the challenge](#the-challenge).                                                                 |
-|               |                                                                                                          |
-|  **Thursday** |                                                                                                          |
-| 09:00 - 12:30 | Work on [the challenge](#the-challenge).                                                                 |
-| 12:30 - 13:30 | Lunch                                                                                                    |
-| 13:30 - 17:30 | Work on [the challenge](#the-challenge).                                                                 |
-| 17:30 - 20:30 | Early evening presentations to an invited audience, dinner and a few beers.                              |
-|               |                                                                                                          |
-|    **Friday** |                                                                                                          |
-| 09:30 - 10:00 | Presentation feedback.                                                                                   |
-| 10:00 - 11:00 | Talk: How to convert this to a real businesses - funding, marketing (RH?).                               |
-| 11:00 - 12:00 | Round table reflections, discussions, Questions and Answers.                                             |
-|         12:00 | Close. Packets of sandwiches to go.                                                                      |
+|               |                                                                                                               |
+|--------------:|:--------------------------------------------------------------------------------------------------------------|
+|    **Monday** |                                                                                                               |
+|               | Students arrive and check in.                                                                                 |
+| 12:00 - 13:00 | Pizza / buffet style lunch.                                                                                   |
+| 13:00 - 14:00 | Welcome and introductions. (RH)                                                                               |
+|               | Introduction to Cefas (John Pinnegar, Kieran Hyder)                                                           |
+|               | Introduction to [the challenge](#the-challenge). (RH)                                                         |
+| 14:00 - 15:00 | Get into [teams](#teams) and build a simple, one page company [launch website](#corporate-website-task). (RB) |
+| 15:00 - 16:00 | Talk: Graham Finlayson on entrepreneurship.                                                                   |
+| 16:00 - 17:00 | Finish website work (RB)                                                                                      |
+|               | Vouchers for dinner                                                                                           |
+|               |                                                                                                               |
+|   **Tuesday** |                                                                                                               |
+|               | Vouchers for breakfast                                                                                        |
+| 08:30 - 09:30 | Bus to Lowestoft for a full day at [Cefas](http://www.cefas.co.uk).                                           |
+| 09:30 - 10:00 | Coffee on arrival                                                                                             |
+|    10:00:1230 | [Show and tell talks](#cefas).    TBD                                                                         |
+|               | Drone demo?                                                                                                   |
+|               |                                                                                                               |
+| 12:30 - 13:30 | Brown bag lunch from a local caterer TBD                                                                      |
+| 13:30 - 16:00 | Work on [the challenge](#the-challenge) assisted by Cefas experts                                             |
+|         16:00 | Evening: Rounders / Frisbee / Football on the beach. OR work on the challenge  (weather dependent)            |
+|               | Take away fish and chips eaten outside OR in Cefas (weather dependent)                                        |
+|         19:30 | Bus back to UEA                                                                                               |
+|               |                                                                                                               |
+| **Wednesday** |                                                                                                               |
+|               | Vouchers for breakfast                                                                                        |
+| 09:00 - 12:30 | [Media training](#media-training).  (external co)                                                             |
+| 12:30 - 13:30 | Lunch vouchers                                                                                                |
+| 13:30 - 17:00 | Work on [the challenge](#the-challenge).                                                                      |
+|               | Restaurant Dinner in Norwich?                                                                                 |
+|               |                                                                                                               |
+|  **Thursday** |                                                                                                               |
+|               | Vouchers for breakfast                                                                                        |
+| 09:00 - 12:30 | Work on [the challenge](#the-challenge).                                                                      |
+| 12:30 - 13:30 | Lunch vouchers                                                                                                |
+| 13:30 - 17:30 | Work on [the challenge](#the-challenge).                                                                      |
+| 17:30 - 20:30 | Early evening presentations to an invited audience, dinner and a few beers. (Sainsburys Centre?)              |
+|               |                                                                                                               |
+|    **Friday** |                                                                                                               |
+|               | Vouchers for breakfast                                                                                        |
+| 09:30 - 10:00 | Presentation feedback.                                                                                        |
+| 10:00 - 11:00 | Talk: How to convert this to a real businesses - funding, marketing (RH?).                                    |
+| 11:00 - 12:00 | Round table reflections, discussions, Questions and Answers.                                                  |
+|         12:00 | Close. Packets of sandwiches to go.                                                                           |
 
 
 ## The-challenge
@@ -188,8 +199,8 @@ Given data about bathymetry, windfarms and shipping (AIS), determine
 an optimal fishing location and plot a passage plan. Show your results
 on a map.
 
-- [ ] RB to explore UKHO and other GIS data sets. Contact Paulette
-      Posen (insight project, wrecks, GIS layers etc).
+- [ ] RB to explore UKHO and other GIS data sets. EMODnet, JNCC (from
+      Daniel Wood).
 
 AIS data?
 
@@ -297,11 +308,16 @@ A web app ? - RH TBD
 
 ## Media training
 
-### Unannounced crisis
+### Introduction
+
+We will hire an external media company to do the training - ideally
+half a day on :
 
 E.g. *An unmanned autonomous vehicle has just collided with a wind turbine
 in the North Sea. One person is injured. You have been invited to
 appear on BBC Breakfast TV to comment*
+
+But maybe a full day?
 
 ### Content
 
@@ -309,21 +325,19 @@ Role play media interviews. Can we get some video cameras in?
 
 Feedback, discussion and training.
 
-- [ ] Get some cameras in?
-
 ## Cefas
-
-Which species are more or less sustainable and why?
 
 #### Overview of Cefas and Cefas science
 
-JB?
-
-Becca Skirrow (fisheries)?
+JP etc
 
 #### Data Science and Statistics at Cefas
 
-Rob to talk about machine learning. Joe Riberio, Data Science?
+Rob to talk about machine learning. Joe Riberio, Data Science? David Maxwell?
+
+#### Keith WinPenny's team
+
+Electronics lab. Data.
 
 #### Marine imagery
 
@@ -335,22 +349,7 @@ The value chain for fish. What can I buy a sea bass for on the
 quayside? What are the volume discounts? How much would I pay at the
 supermarket? At a fishmonger? At a London restaurant?
 
-
-## Norfolk Broads
-
-Trip out to see the Broads and get a flavour of the blue economy leisure industry.
-
-Take some UEA and Cefas people so that students get an opportunity to talk and network.
-
-- [ ] Broad Authority Education officer talk?
-- [ ] Oulton Broad paddle steamer?
-- [ ] Invite selected Cefas and UEA people (CCSUS?) to accompany to The Broads.
-
-- [ ] Ask Mavis to consider the options.
-
 ## Corporate website task
-
-- [ ] Decide whether this option is a goer.
 
 ### Introduction
 
@@ -358,6 +357,8 @@ Design and build a simple, one-page corporate website to officially
 represent your start-up on the Web.
 
 ### Things to consider
+
+What would be a good company name?
 
 What purposes should a company website fulfil?
 
@@ -367,14 +368,14 @@ How important are logos, branding, styling and choice of colour?
 
 ### Task
 
-Design a single-page web site using either HTML or Markdown, and add
-it to the event's GitHub repository.
+Design a single-page web site using either HTML, Markdown, Word,
+PowerPoint or hand drawn sketches. (We are interested in your ideas
+and design more than your web site skills!).
 
 ### Deliverable
 
-A single page website that that represents you start-up on the
-Web. (80% of the marks will be awarded for content and 20% for
-presentation).
+A single page website that that represents your start-up on the
+Web.
 
 ### Notes
 
@@ -386,6 +387,20 @@ before diving into the detail.
 [The good fish guide](https://www.mcsuk.org/goodfishguide/) published by the Marine Conservation Society.
 
 [Technological innovations in the recreational fishing sector: implications for fisheries management and policy](https://link.springer.com/article/10.1007/s11160-021-09643-1)
+
+## Done 20220330
+
+We are comfortable that the event itself is coming together but
+anxious about the content of the modules.
+
+- [x] RH to book a venue (Productivity East?) (20220401)
+
+We believe that Productivity East is booked, but we must go there and
+talk to them about the facilities.
+
+- [x] RH to "sign off" on the [timetable](#timetable) (20220401)
+
+Agreed
 
 ## Done 20220316
 
