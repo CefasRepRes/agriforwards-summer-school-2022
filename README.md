@@ -17,13 +17,14 @@ This document is a work in progress.
 
 ## Richard TODO
 
-- [ ] RH to appoint a robotocist to develop and lead the [The fish catcher](#the-fish-catcher) module (Lincoln?) (20220401)
+- [ ] RH to appoint a robotocist to develop and lead the [The fish catcher](#the-fish-catcher) module (Lincoln?) (20220401)(Done - Rob Lloyd)
 
-- [ ] RH to appoint a robotocist to develop and lead the [The fish cooker](#the-cooker) module (Mark Swainson, Holbeach?) (20220401)
+- [ ] RH to appoint a robotocist to develop and lead the [The fish cooker](#the-cooker) module (Mark Swainson, Holbeach?) (20220401)(Half done - Mark contacted)
 
 - [ ] RH to develop and lead, or appoint somebody for  [The fish seller](#the-fish-seller) module (20220401)
 
 - [ ] RH to work on some of the wording for the challenge, refining what's written below
+- [ ] RH to contact Tim Hunkin re participation.
 
 ## Rob TODO
 
@@ -68,21 +69,23 @@ This document is a work in progress.
 
 - [ ] MF to look at Sainsburys Centre as a venue for the
       presentations + dinner. Can they facilitate a Zoom for others to
-      dial in?
+      dial in? (In hand 13.4.2022)
 
-- [ ] MF to look further at booking a company for media training - could be 1 day
+- [ ] MF to look further at booking a company for media training - could be 1 day (Media training has been axed - not enough time)
 
-- [ ] Book restaurant in Norwich and transport for Wednesday evening.
+- [ ] Book restaurant in Norwich and transport for Wednesday evening (Not needed. Brown bag dinner for studens on campus - they'll be deep in challenge. 13.4.2022)
 
-- [ ] MF to organise breakfast, lunch and dinner vouchers
+- [ ] MF to organise breakfast, lunch and dinner vouchers (In hand 13.4.2022)
 
-- [ ] MF to book Lowestoft caterer for coffee and lunch (Tuesday) (Rob to suggest)
+- [ ] MF to book Lowestoft caterer for coffee and lunch (Tuesday) (Rob to suggest) (Awaiting suggestions from Cefas)
 
-- [ ] MF to book coach for Cefas day
+- [ ] MF to book coach for Cefas day (In hand 13.4.2022)
 
-- [ ] MF to book UEA accommodation (+ for Rob and other supervisors?)
+- [ ] MF to book UEA accommodation (+ for Rob and other supervisors?) (In hand 13.4.2022. Note that Rob Lloyd will need accommodation)
 
-- [ ] MF Student registration form
+- [ ] MF Student registration form (In hand 13.4.2022)
+- [ ] MF to suggest social on Monday night, possibly with T Hunkin
+- [ ] MF to contact Assembly Rooms re Thurs night presentations (plus streaming) and dinner. Or cathedral. Or City Hall.
 
 ## Timetable
 
