@@ -446,3 +446,11 @@ Kieran Hyder (Cefas) now onboard to advise on fishing aspects.
 - [x] We decided that the fish finder / navigation is worth pursuing
 
 We decided not to use the train. Mavis has lined up a 33 seater coach.
+
+
+
+## References
+
+https://www.marinetechnologynews.com/news/information-transforming-fishing-worldwide-619010#.YmbSZaHn8Wg.mailto
+
+
