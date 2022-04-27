@@ -19,22 +19,6 @@ I have started to move TODO items into the issues list for this repo.
 
 
 
-## Mavis TODO
-
-- [ ] MF to schedule a visit to Productivity East, to meet the people and plan usage.
-
--
-- [ ] Book restaurant in Norwich and transport for Wednesday evening (Not needed. Brown bag dinner for studens on campus - they'll be deep in challenge. 13.4.2022)
-
-- [ ] MF to book Lowestoft caterer for coffee and lunch (Tuesday) (Rob to suggest) (Awaiting suggestions from Cefas)
-
-- [ ] MF to book coach for Cefas day (In hand 13.4.2022)
-
-
-- [ ] MF Student registration form (In hand 13.4.2022)
-- [ ] MF to suggest social on Monday night, possibly with T Hunkin
-- [ ] MF to contact Assembly Rooms re Thurs night presentations (plus streaming) and dinner. Or cathedral. Or City Hall.
-
 ## Timetable
 
 |               |                                                                                                               |
