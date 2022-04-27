@@ -10,77 +10,26 @@ and development for 28 AgriFoRwArdS CDT students. Based at The UEA in
 Norwich, the dates are confirmed as 4th - 8th July 2022.
 
 The event will include [a challenge](#the-challenge), a trip to
-[Cefas](#cefas), various talks, media training, entrepreneurship and
+[Cefas](#cefas), various talks, entrepreneurship and
 presentations. Please see the [timetable](#timetable).
 
 This document is a work in progress.
 
-## Richard TODO
+I have started to move TODO items into the issues list for this repo.
 
 
-- [ ] RH to appoint a robotocist to develop and lead the [The fish cooker](#the-cooker) module (Mark Swainson, Holbeach?) (20220401)(Half done - Mark contacted)
-
-- [ ] RH to develop and lead, or appoint somebody for  [The fish seller](#the-fish-seller) module (20220401)
-
-- [ ] RH to work on some of the wording for the challenge, refining what's written below
-- [ ] RH to contact Tim Hunkin re participation.
-
-## Rob TODO
-
-- [ ] RB + JB to arrange passes for the Cefas day (Regeneration team?)  (20220401)
-
-- [ ] RB + JB to suggest to MF a local caterer for coffee and brown bag lunch
-
-- [ ] RB + JB to book fish n chips for evening
-
-- [x] RB to speak to Keith Winpenny to see if his team can run some demos. (20220401)
-
-- [ ] RB to develop and lead the [The fish finder](#the-fish-finder) module (20220601)
-
-- [ ] RB to develop and lead the [launch website](#corporate-website-task) activity (20220601)
-
-- [ ] RB to invite a small Cefas audience for the presentations (20220601)
-
-- [ ] RB to confirm WiFi access instructions at Cefas? (20220701)
-
-
-## Michal TODO
-
-- [ ] MM to develop and lead [The fish sorter](#the-fish-sorter) module. (20220601)
-
-## Julie TODO
-
-- [ ] JB to advise Rob on catering and facilitation whilst at Cefas
-
-- [ ] JB to speak to Martin Wyberg about visits / demos (20220401)
-
-- [ ] JB to speak to Sara about possible drone demo (20220401)
-
-- [ ] JB to send Cefas logos to Mavis (20220401)
-
-- [ ] JB to firm up the Cefas talks, visits and demonstration (20220401)
-
-- [ ] JB to ensure that John Pinnegar and Kieran Hyder are fully briefed for their day one intros. (20220601)
 
 ## Mavis TODO
 
 - [ ] MF to schedule a visit to Productivity East, to meet the people and plan usage.
 
-- [ ] MF to look at Sainsburys Centre as a venue for the
-      presentations + dinner. Can they facilitate a Zoom for others to
-      dial in? (In hand 13.4.2022)
-
-- [ ] MF to look further at booking a company for media training - could be 1 day (Media training has been axed - not enough time)
-
+-
 - [ ] Book restaurant in Norwich and transport for Wednesday evening (Not needed. Brown bag dinner for studens on campus - they'll be deep in challenge. 13.4.2022)
-
-- [ ] MF to organise breakfast, lunch and dinner vouchers (In hand 13.4.2022)
 
 - [ ] MF to book Lowestoft caterer for coffee and lunch (Tuesday) (Rob to suggest) (Awaiting suggestions from Cefas)
 
 - [ ] MF to book coach for Cefas day (In hand 13.4.2022)
 
-- [ ] MF to book UEA accommodation (+ for Rob and other supervisors?) (In hand 13.4.2022. Note that Rob Lloyd will need accommodation)
 
 - [ ] MF Student registration form (In hand 13.4.2022)
 - [ ] MF to suggest social on Monday night, possibly with T Hunkin
@@ -98,7 +47,7 @@ This document is a work in progress.
 |               | Introduction to [the challenge](#the-challenge). (RH)                                                         |
 | 14:00 - 15:00 | Get into [teams](#teams) and build a simple, one page company [launch website](#corporate-website-task). (RB) |
 | 15:00 - 16:00 | Talk: Graham Finlayson on entrepreneurship.                                                                   |
-| 16:00 - 17:00 | Finish website work (RB)                                                                                      |
+| 16:00 - 17:00 | Talk: TBD                                                                                      |
 |               | Vouchers for dinner                                                                                           |
 |               |                                                                                                               |
 |   **Tuesday** |                                                                                                               |
@@ -116,17 +65,16 @@ This document is a work in progress.
 |               |                                                                                                               |
 | **Wednesday** |                                                                                                               |
 |               | Vouchers for breakfast                                                                                        |
-| 09:00 - 12:30 | [Media training](#media-training).  (external co)                                                             |
+| 09:00 - 12:30 | Work on [the challenge](#the-challenge).                                                            |
 | 12:30 - 13:30 | Lunch vouchers                                                                                                |
 | 13:30 - 17:00 | Work on [the challenge](#the-challenge).                                                                      |
-|               | Restaurant Dinner in Norwich?                                                                                 |
 |               |                                                                                                               |
 |  **Thursday** |                                                                                                               |
 |               | Vouchers for breakfast                                                                                        |
 | 09:00 - 12:30 | Work on [the challenge](#the-challenge).                                                                      |
 | 12:30 - 13:30 | Lunch vouchers                                                                                                |
 | 13:30 - 17:30 | Work on [the challenge](#the-challenge).                                                                      |
-| 17:30 - 20:30 | Early evening presentations to an invited audience, dinner and a few beers. (Sainsburys Centre?)              |
+| 17:30 - 20:30 | Early evening presentations to an invited audience, dinner and a few beers. (Assembly House?)                 |
 |               |                                                                                                               |
 |    **Friday** |                                                                                                               |
 |               | Vouchers for breakfast                                                                                        |
@@ -397,6 +345,12 @@ https://www.marinetechnologynews.com/news/information-transforming-fishing-world
 ## Done
 
 - [x] RH to appoint a robotocist to develop and lead the [The fish catcher](#the-fish-catcher) module (Lincoln?) (20220401)(Done - Rob Lloyd)
+
+ [x] MF to look at Sainsburys Centre as a venue for the
+      presentations + dinner. Can they facilitate a Zoom for others to
+      dial in? Not avilable due to building works.
+
+- [x] MF to look further at booking a company for media training - could be 1 day (Media training has been axed - not enough time)
 
 
 ## Done 20220330
