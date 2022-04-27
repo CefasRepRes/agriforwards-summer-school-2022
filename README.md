@@ -15,7 +15,7 @@ presentations. Please see the [timetable](#timetable).
 
 This document is a work in progress.
 
-I have started to move TODO items into the issues list for this repo.
+I have started to move TODO items into the [issues for this repo](https://github.com/CefasRepRes/agriforwards-summer-school-2022/issues).
 
 
 
