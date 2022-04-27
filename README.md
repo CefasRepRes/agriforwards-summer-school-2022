@@ -17,7 +17,6 @@ This document is a work in progress.
 
 ## Richard TODO
 
-- [ ] RH to appoint a robotocist to develop and lead the [The fish catcher](#the-fish-catcher) module (Lincoln?) (20220401)(Done - Rob Lloyd)
 
 - [ ] RH to appoint a robotocist to develop and lead the [The fish cooker](#the-cooker) module (Mark Swainson, Holbeach?) (20220401)(Half done - Mark contacted)
 
@@ -226,6 +225,8 @@ Could involve aspects of fleet robotics, safety, weather, logistics.
 
 ## The fish catcher
 
+Rob Lloyd
+
 ### Introduction
 
 This robot must cast a line, catch a fish and land it.
@@ -391,6 +392,13 @@ before diving into the detail.
 
 [Technological innovations in the recreational fishing sector: implications for fisheries management and policy](https://link.springer.com/article/10.1007/s11160-021-09643-1)
 
+https://www.marinetechnologynews.com/news/information-transforming-fishing-worldwide-619010#.YmbSZaHn8Wg.mailto
+
+## Done
+
+- [x] RH to appoint a robotocist to develop and lead the [The fish catcher](#the-fish-catcher) module (Lincoln?) (20220401)(Done - Rob Lloyd)
+
+
 ## Done 20220330
 
 We are comfortable that the event itself is coming together but
@@ -449,8 +457,5 @@ We decided not to use the train. Mavis has lined up a 33 seater coach.
 
 
 
-## References
-
-https://www.marinetechnologynews.com/news/information-transforming-fishing-worldwide-619010#.YmbSZaHn8Wg.mailto
 
 
