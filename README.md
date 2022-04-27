@@ -124,19 +124,11 @@ prototypes to an assembled audience on Thursday evening.
 Software must navigate the autonomous vessel to the fishing grounds,
 considering collision avoidance and minimising fuel costs.
 
-- [ ] RB to flesh this out a bit more detail and consult Kieran to
-      try to make it realistic or at least plausible.
-
 ### Task
 
 Given data about bathymetry, windfarms and shipping (AIS), determine
 an optimal fishing location and plot a passage plan. Show your results
 on a map.
-
-- [ ] RB to explore UKHO and other GIS data sets. EMODnet, JNCC (from
-      Daniel Wood).
-
-AIS data?
 
 Consider using some kind of constraint satisfaction / linear
 optimisation framework? Random utility models are used in
@@ -241,25 +233,6 @@ fishers with markets. E.g. [Abalobi](http://abalobi.org) . KH could
 put us in touch with the founder.
 
 A web app ? - RH TBD
-
-## Media training
-
-### Introduction
-
-We will hire an external media company to do the training - ideally
-half a day on :
-
-E.g. *An unmanned autonomous vehicle has just collided with a wind turbine
-in the North Sea. One person is injured. You have been invited to
-appear on BBC Breakfast TV to comment*
-
-But maybe a full day?
-
-### Content
-
-Role play media interviews. Can we get some video cameras in?
-
-Feedback, discussion and training.
 
 ## Cefas
 
