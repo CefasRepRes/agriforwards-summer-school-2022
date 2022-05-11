@@ -299,6 +299,10 @@ before diving into the detail.
 
 https://www.marinetechnologynews.com/news/information-transforming-fishing-worldwide-619010#.YmbSZaHn8Wg.mailto
 
+[Factors affecting fisher decisions: The case of the inshore fishery for European sea bass (Dicentrarchus labrax).](https://doi.org/10.1371/journal.pone.0266170)
+
+
+
 ## Done
 
 - [x] RH to appoint a robotocist to develop and lead the [The fish catcher](#the-fish-catcher) module (Lincoln?) (20220401)(Done - Rob Lloyd)
