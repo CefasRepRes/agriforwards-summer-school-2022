@@ -301,7 +301,7 @@ https://www.marinetechnologynews.com/news/information-transforming-fishing-world
 
 [Factors affecting fisher decisions: The case of the inshore fishery for European sea bass (Dicentrarchus labrax).](https://doi.org/10.1371/journal.pone.0266170)
 
-
+[Technological innovations in the recreational fishing sector: implications for fisheries management and policy](https://www.researchgate.net/publication/349535567_Technological_innovations_in_the_recreational_fishing_sector_implications_for_fisheries_management_and_policy)
 
 ## Done
 
