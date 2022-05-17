@@ -1,4 +1,4 @@
-# The fish finder
+# The fish finder challenge
 
 ## Introduction
 
@@ -27,8 +27,9 @@ protected areas shown in red. UK maritime limits shown in green.
 
 ### Maritime limits and boundaries.
 
-See https://jncc.gov.uk/mpa-mapper/ and
-https://data.admiralty.co.uk/portal/apps/sites/#/marine-data-portal/items/b9bcb1a1ef644bd7a94be282d8ff38c5
+See [JNCC MPA mapper](https://jncc.gov.uk/mpa-mapper/) and [UK
+Hydrographic Office Maritime Limits and
+Boundaries](https://data.admiralty.co.uk/portal/apps/sites/#/marine-data-portal/items/b9bcb1a1ef644bd7a94be282d8ff38c5).
 
 `UK_Hydrographic_Office_Maritime_Limits_and_Boundaries.zip`
 
@@ -36,8 +37,9 @@ Shapefile. No licence specified.
 
 ### UK offshore marine protected areas
 
-See https://jncc.gov.uk/mpa-mapper/ and
-https://hub.jncc.gov.uk/assets/ade43f34-54d6-4084-b66a-64f0b4a5ef27
+See [JNCC MPA mapper](https://jncc.gov.uk/mpa-mapper/) and [UK
+Offshore Marine Protected Areas
+2020](https://hub.jncc.gov.uk/assets/ade43f34-54d6-4084-b66a-64f0b4a5ef27)
 
 `c20201214-OffshoreMPAs-WGS84.zip`
 
@@ -66,7 +68,10 @@ Oil and gas platforms `platforms.csv`.
 
 Wind farms `wind-farms.csv`.
 
-These data were extracted and down sampled from the United Kingdom
+See [ADMIRALTY Marine Data
+Portal](https://www.gov.uk/guidance/inspire-portal-and-medin-bathymetry-data-archive-centre).
+
+These data were extracted and down-sampled from the United Kingdom
 Hydrographic Office infrastructure data set. The files contain Crown
 Copyright data kindly provided by special permission of United Kingdom
 Hydrographic Office and must not be copied, made public or used for
