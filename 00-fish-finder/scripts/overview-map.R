@@ -15,6 +15,10 @@ irl <- st_read(here("00-fish-finder/data/external/british-isles/IRL_adm0.shp"))
 mpa <- st_read(here("00-fish-finder/data/external/c20201214_OffshoreMPAs_WGS84.shp"))
 bounds <- st_read(here("00-fish-finder/data/external/Limits_and_boundaries.shp"))
 
+## Landings by ICES square
+
+landings <- st_read(here("00-fish-finder/data/external/data/United_Kingdom_Fish_Landings_by_ICES_Rectangle_all_vessels_2016.shp"))
+
 ## Infrastructure
 
 df <- read_csv(here("00-fish-finder/data/interim/wind-farms.csv"))
@@ -23,6 +27,7 @@ df2 <- read_csv(here("00-fish-finder/data/interim/platforms.csv"))
 df <- bind_rows(df, df2)
 
 ggplot(df) +
+    geom_sf(data = landings, color = "yellow") +
     geom_sf(data = gbr, color = "black", fill = "gray") +
     geom_sf(data = imn, color = "black", fill = "gray") +
     geom_sf(data = irl, color = "black", fill = "gray") +
