@@ -119,33 +119,11 @@ prototypes to an assembled audience on Thursday evening.
 
 ## The fish finder
 
-### Introduction
+Expert: Kieran Hyder
 
-Software must navigate the autonomous vessel to the fishing grounds,
-considering collision avoidance and minimising fuel costs.
+Mentor: Rob Blackwell
 
-### Task
-
-Given data about bathymetry, windfarms and shipping (AIS), determine
-an optimal fishing location and plot a passage plan. Show your results
-on a map.
-
-Consider using some kind of constraint satisfaction / linear
-optimisation framework? Random utility models are used in
-economics. Variables include cost, distance, probability etc.
-
-Fishing grounds are dependent on habitat, tidal aspects etc. but we
-will probably just use poetic licence and make up some suitable
-location. Also which species? Bait hook and line? etc.
-
-### Notes
-
-The task could involve talking to Cefas about the locations of fishing
-grounds and the factors affecting fish abundance etc (Jeroen?)
-
-This could be an interesting modelling, data science and GIS exercise.
-
-Could involve aspects of fleet robotics, safety, weather, logistics.
+See [here](00-fish-finder/README.md).
 
 ## The fish catcher
 
@@ -371,8 +349,3 @@ Kieran Hyder (Cefas) now onboard to advise on fishing aspects.
 - [x] We decided that the fish finder / navigation is worth pursuing
 
 We decided not to use the train. Mavis has lined up a 33 seater coach.
-
-
-
-
-
