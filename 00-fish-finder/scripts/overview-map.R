@@ -12,8 +12,8 @@ irl <- st_read(here("00-fish-finder/data/external/british-isles/IRL_adm0.shp"))
 
 ## Marine protected areas and maritime boundaries
 
-mpa <- st_read(here("00-fish-finder/data/external/c20201214-OffshoreMPAs-WGS84/c20201214_OffshoreMPAs_WGS84.shp"))
-bounds <- st_read(here("00-fish-finder/data/external/UK_Hydrographic_Office_Maritime_Limits_and_Boundaries/Limits_and_boundaries.shp"))
+mpa <- st_read(here("00-fish-finder/data/external/c20201214_OffshoreMPAs_WGS84.shp"))
+bounds <- st_read(here("00-fish-finder/data/external/Limits_and_boundaries.shp"))
 
 ## Infrastructure
 
