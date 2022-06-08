@@ -58,7 +58,7 @@ I have started to move TODO items into the [issues for this repo](https://github
 | 09:00 - 12:30 | Work on [the challenge](#the-challenge).                                                                      |
 | 12:30 - 13:30 | Lunch vouchers                                                                                                |
 | 13:30 - 17:30 | Work on [the challenge](#the-challenge).                                                                      |
-| 17:30 - 20:30 | Early evening presentations to an invited audience, dinner and a few beers. (Assembly House?)                 |
+| 17:30 - 20:30 | Early evening presentations to an invited audience, dinner and a few beers. (The Last Wine Bar and Restaurant in Norwich)                 |
 |               |                                                                                                               |
 |    **Friday** |                                                                                                               |
 |               | Vouchers for breakfast                                                                                        |
