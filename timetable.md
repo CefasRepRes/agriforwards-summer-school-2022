@@ -1,5 +1,6 @@
 ## AgriFoRwArdS Summer School Timetable July 4th - July 8th 2022
 
+|||
 |--------------:|:--------------------------------------------------------------------------------------------------------------|
 |    **Monday** |                                                                                                               |
 |               | Students arrive and check in.                                                                                 |
