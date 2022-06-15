@@ -14,7 +14,8 @@ The event will focus on "technology for food from water" and includes
 presentations, and an opportunity to network with scientists, engineers
 and entrepreneurs.
 
-The evnt starts at 12:00 on MOnday 4th July. Please meet for lunch at
-Productivity East (What3words ///window.tops.actor) on the UEA campus.
+Please meet for lunch at 12:00 on Monday 4th July at Productivity East
+(What3words [///window.tops.actor](https://w3w.co/window.tops.actor))
+on the UEA campus.
 
 Please see the [timetable](timetable.md).
