@@ -17,7 +17,7 @@
 |               | Vouchers for breakfast                                                                            |
 | 08:30 - 09:30 | Bus to Lowestoft for a full day at [Cefas](http://www.cefas.co.uk).                               |
 | 09:30 - 10:00 | Coffee on arrival                                                                                 |
-|    10:00:1230 | [Agenda](talks.md).                                                                               |
+|    10:00:1230 | [Agenda](cefas.md).                                                                               |
 |               |                                                                                                   |
 | 12:30 - 13:30 | Brown bag lunch from a local caterer TBD                                                          |
 | 13:30 - 16:00 | Work on [the challenge](#the-challenge) assisted by Cefas experts                                 |

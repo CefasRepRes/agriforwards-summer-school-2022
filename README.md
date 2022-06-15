@@ -10,8 +10,8 @@ Welcome to the University of East Anglia at Norwich and the
 summer school 2022.
 
 The event will focus on "technology for food from water" and includes
-[a team challenge](challenge.md), a trip to [Cefas](#cefas), talks and
-presentations and an opportunity to network with scientists, engineers
+[a team challenge](challenge.md), a trip to [Cefas](cefas.md), talks and
+presentations, and an opportunity to network with scientists, engineers
 and entrepreneurs.
 
 Please see the [timetable](timetable.md).
