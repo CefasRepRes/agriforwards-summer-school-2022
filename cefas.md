@@ -16,7 +16,7 @@ MISSING - Anything on bioinformatics
 
 XX:XX Statistics - David Maxwell
 
-XX:XX Data science - Robert Blackwell (maybe Jospeth Ribeiro)
+XX:XX Data science - Robert Blackwell (maybe Joe Ribeiro)
 
 XX:XX Hardware and software for the fishing industry
 
