@@ -18,7 +18,7 @@ XX:XX Statistics - David Maxwell
 
 XX:XX Data science - Robert Blackwell (maybe Joe Ribeiro)
 
-XX:XX Hardware and software for the fishing industry
+XX:XX Hardware and software for the fishing and marine science
 
 - Introduction Keith Winpenny
 - Software Gareth Norman (STARFISH, SMC, Wavenet)
