@@ -11,6 +11,8 @@ MISSING - Anything on fisheries acoustics, fisheries technology
 
 10:25 Seaweed aquaculture - Elisa Capuzzo
 
+MISSING - Anything on bioinformatics
+
 XX:XX Statistics - David Maxwell
 
 XX:XX Data science - Robert Blackwell (maybe Jospeth Ribeiro)
@@ -27,7 +29,9 @@ XX:XX - Satellite based oceanography - Tiago Silva
 
 MISSING - Anything on drones
 
-MISSIG - Anything on Lyra
+MISSING - Anything on Lyra
+
+18:00 Meet at Pakefield Plaice to pick up our fish and chips. (What3words ///apprehend.vandalism.tablet)
 
 
 ## WiFi
