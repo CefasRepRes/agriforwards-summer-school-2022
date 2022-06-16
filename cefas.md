@@ -8,9 +8,11 @@ Welcome to Cefas, Lowestoft (What3words [///itself.cool.eagle](https://w3w.co/ap
 
 10:15 Food from water - Simon Jennings
 
-MISSING - Anything on fisheries acoustics, fisheries technology
+10:25 Seaweed aquaculture - Elisa Capuzzo (via Teams)
 
-10:25 Seaweed aquaculture - Elisa Capuzzo
+10:35 Fisheries acoustics - Robert Blackwell
+
+10:45 Dive computers and citizen science - Celia Marloww (via Teams)
 
 MISSING - Anything on bioinformatics
 
