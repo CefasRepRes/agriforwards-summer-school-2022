@@ -4,7 +4,7 @@ Welcome to Cefas, Lowestoft (What3words [///itself.cool.eagle](https://w3w.co/ap
 
 09:30 Tea and coffee on arrival
 
-10:00 Setting the scene and housekeeping, Kieren Hyder
+10:00 Setting the scene and housekeeping - Kieren Hyder
 
 10:10 Welcome to Cefas - Stephen Dye
 
@@ -28,13 +28,17 @@ Q & A
 
 12:30 Lunch
 
-13:30 Survey design and tatistics - David Maxwell
+13:30 Statistics and data science - David Maxwell
 
 13:40 Data science applications - Joe Ribeiro
 
 13:50 Hydrodynamic modelling - Lianne Harrison
 
-14:00 Networking. Work on the challnge
+14:00 Satellite oceanography - Tiago Silva
+
+14:10 Q & A
+
+Networking. Work on the challenge
 
 18:00 Meet at Pakefield Plaice to pick up our fish and chips. (What3words [///apprehend.vandalism.tablet](https://w3w.co/apprehend.vandalism.tablet))
 
