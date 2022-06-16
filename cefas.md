@@ -4,7 +4,7 @@ Welcome to Cefas, Lowestoft (What3words [///itself.cool.eagle](https://w3w.co/ap
 
 09:30 Tea and coffee on arrival
 
-10:00 Setting the scene and housekeeping - Kieren Hyder
+10:00 Setting the scene and housekeeping - Kieran Hyder (compere)
 
 10:10 Welcome to Cefas - Stephen Dye
 
@@ -20,13 +20,13 @@ Welcome to Cefas, Lowestoft (What3words [///itself.cool.eagle](https://w3w.co/ap
 
 11:20 Hardware and software for fisheries and marine science
 
-- Introduction Keith Winpenny
-- Software Gareth Norman (STARFISH, SMC, Wavenet)
-- Electronics tour (Wavenet, smartbouy, Wave glider, embedded systems)
+- Introduction - Keith Winpenny
+- Software  (STARFISH, SMC, Wavenet) - Gareth Norman, Cameron Gough, Jonathan Meaker
+- Electronics tour (Wavenet, smartbouy, Wave glider, embedded systems) - Matthew Eagle
 
 Q & A
 
-12:30 Lunch
+12:30 Lunch (Delivered from the Bowling Green Cafe)
 
 13:30 Statistics and data science - David Maxwell
 
