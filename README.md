@@ -10,7 +10,7 @@ Welcome to the University of East Anglia at Norwich and the
 summer school 2022.
 
 The event will focus on "technology for food from water" and includes
-[a team challenge](challenge.md), a trip to [Cefas](cefas.md), talks and
+a team challenge, a trip to [Cefas](cefas.md), talks and
 presentations, and an opportunity to network with scientists, engineers
 and entrepreneurs.
 
@@ -80,7 +80,22 @@ But the most important thing is to enjoy yourself - the pandemic has been a kill
 
 Richard Harvey, Kieren Hyder, Robert Blackwell, Rob Lloyd, Michal Mackiewicz, 
 
+### Footnotes
 <a name="myfootnote1">1</a>: For those of you who want the gory details of British culinary tastes then the URL is provided here.  Trigger warning - you may need a sick bag. https://www.thesun.co.uk/news/14283687/britain-family-meals-roast-dinner-fish-pizza/
 
 <a name="myfootnote2">2</a>: But no vinegar obviously - people who put vinegar on fish-and-chips should be prosecuted for crimes against culinary good sense.
 
+
+### References
+
+[The good fish guide](https://www.mcsuk.org/goodfishguide/) published by the Marine Conservation Society.
+
+[Technological innovations in the recreational fishing sector: implications for fisheries management and policy](https://link.springer.com/article/10.1007/s11160-021-09643-1)
+
+https://www.marinetechnologynews.com/news/information-transforming-fishing-worldwide-619010#.YmbSZaHn8Wg.mailto
+
+[Factors affecting fisher decisions: The case of the inshore fishery for European sea bass (Dicentrarchus labrax).](https://doi.org/10.1371/journal.pone.0266170)
+
+[Technological innovations in the recreational fishing sector: implications for fisheries management and policy](https://www.researchgate.net/publication/349535567_Technological_innovations_in_the_recreational_fishing_sector_implications_for_fisheries_management_and_policy)
+
+[Artificial Light in Commercial Industrialized Fishing Applications: A Review](https://www.tandfonline.com/doi/full/10.1080/23308249.2018.1496065)
