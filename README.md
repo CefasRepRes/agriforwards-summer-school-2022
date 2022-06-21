@@ -56,7 +56,7 @@ Do not worry if starting and pitching a business is alien to you - we will expla
 To make the task even more manageable we have split you into Teams.  Each Team will focus on a different aspect of the robo-fisher:
 
 #### The Fish Finder
-It’s quite possible for a fishing boat to spend several days at sea without catching a single fish of value.  How can we maximise the sustainability of our fishing missions? 
+It’s quite possible for a fishing boat to spend several days at sea without catching a single fish of value.  How can we maximise the sustainability of our fishing missions? [More ...](00-fish-finder/README.md)
 
 #### The Fish Catcher
 
