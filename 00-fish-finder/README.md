@@ -1,4 +1,4 @@
-# The fish finder challenge
+# The fish finder
 
 ## Introduction
 
@@ -75,7 +75,8 @@ These data were extracted and down-sampled from the United Kingdom
 Hydrographic Office infrastructure data set. The files contain Crown
 Copyright data kindly provided by special permission of United Kingdom
 Hydrographic Office and must not be copied, made public or used for
-any purposes except this exercise.
+any purposes except this exercise. They are not included in thsi repo,
+but are available from Rob Blackwell on request.
 
 ## Disclaimer
 
