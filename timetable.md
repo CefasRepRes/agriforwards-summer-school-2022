@@ -10,7 +10,7 @@
 |               | Introduction to [the challenge](#the-challenge). (RH)                                             |
 | 14:00 - 15:00 | Get into [teams](#teams) and consider how your would [form a company](start-up.md). (RB)          |
 | 15:00 - 16:00 | Talk: Graham Finlayson on entrepreneurship.                                                       |
-| 16:00 - 17:00 | Talk: TBD                                                                                         |
+| 16:00 - 17:00 | Talk: Serge TBD                                                                                   |
 |               | Vouchers for dinner                                                                               |
 |               |                                                                                                   |
 |   **Tuesday** |                                                                                                   |
@@ -21,7 +21,7 @@
 |               |                                                                                                   |
 | 12:30 - 13:30 | Brown bag lunch from a local caterer TBD                                                          |
 | 13:30 - 16:00 | Work on [the challenge](#the-challenge) assisted by Cefas experts                                 |
-|         16:00 | Evening: Rounders / Frisbee / Football on the beach. OR work on the challenge (weather dependent) |
+|         16:30 | Evening: Rounders / Frisbee / Football on the beach. OR work on the challenge (weather dependent) |
 |         18:00 | Take away fish and chips eaten outside OR in Cefas (weather dependent)                            |
 |         19:30 | Bus back to UEA                                                                                   |
 |               |                                                                                                   |

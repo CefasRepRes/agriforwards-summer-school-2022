@@ -28,17 +28,25 @@ Q & A
 
 12:30 Lunch (Delivered from the Bowling Green Cafe)
 
-13:30 Statistics and data science - David Maxwell
+During the lunch period, Stephen Clarke and Martin Cliffen will be on hand to show our remotely piloted aircraft fleet (no touching please!) and answer any questions you may have.
 
-13:40 Data science applications - Joe Ribeiro
+13:30 Remotely Piloted Aircraft (RPA) applications - Sara Stones (via Teams)
 
-13:50 Hydrodynamic modelling - Lianne Harrison
+13:40 Statistics and data science - David Maxwell
 
-14:00 Satellite oceanography - Tiago Silva
+13:50 Data science applications - Joe Ribeiro
+
+14:00 Hydrodynamic modelling - Lianne Harrison
+
+14:10 Satellite oceanography - Tiago Silva
 
 14:10 Q & A
 
-Networking. Work on the challenge
+14:30 Student Panel Session (KH)
+
+15:30 Challenge planning
+
+16:30 Evening: Rounders / Frisbee / Football on the beach, or work on the challenge (weather dependent).
 
 18:00 Meet at Pakefield Plaice to pick up our fish and chips. (What3words [///apprehend.vandalism.tablet](https://w3w.co/apprehend.vandalism.tablet))
 
