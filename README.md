@@ -35,15 +35,15 @@ Most people on this School are already quite experienced in specialised forms of
 
 ### Explaining
 
-Although the standard of presentations has improved over the years, many students fail to get jobs because they are poor communicators.  Communication is not just written reports, although these are important and it most certainly not just powerpoint presentations, although these are also commonplace.  Communication is a life skill that covers your whole attitude to being a human being.  
+Although the standard of presentations has improved over the years, many students fail to get jobs because they are poor communicators.  Communication is not just written reports, although these are important and it most certainly not just powerpoint presentations, although these are also commonplace.  Communication is a life skill that covers your whole attitude to being a human being.
 
 ### Managing
 
-Managing yourself and others is clearly a skill that is highly correlated with your personal happiness and perception of success.  But teaching it can be tricky – students come with different experiences so there is always a danger of what is awfully threatening for one is highly simplistic for another.  Nevertheless this course will teach you to manage.  We will do that via groupwork and by regular reflection.  By the end of this course you will be a better manager – guaranteed! 
+Managing yourself and others is clearly a skill that is highly correlated with your personal happiness and perception of success.  But teaching it can be tricky – students come with different experiences so there is always a danger of what is awfully threatening for one is highly simplistic for another.  Nevertheless this course will teach you to manage.  We will do that via groupwork and by regular reflection.  By the end of this course you will be a better manager – guaranteed!
 
-But there is more.  We also want to discuss fish and fishing.  
+But there is more.  We also want to discuss fish and fishing.
 
-Fishing is a fascinating industry with a long history.  Like agriculture, it does not always get the nuanced press coverage it deserves and, like agriculture if suffers from many similar drivers: it is dangerous; the rates of pay can be low; sustainability does not always align with consumer preferences; and there is a massively complicated regulatory system which has led to war between nations.  
+Fishing is a fascinating industry with a long history.  Like agriculture, it does not always get the nuanced press coverage it deserves and, like agriculture if suffers from many similar drivers: it is dangerous; the rates of pay can be low; sustainability does not always align with consumer preferences; and there is a massively complicated regulatory system which has led to war between nations.
 
 That said, food from the sea has the potential to be tasty, nutritious and sustainable.  Furthemore, The Sun newspaper declared fish-and-chips to be one of Britain’s Top-20 Favourite dishes — the only seafood in the Top-20<sup>[1](#myfootnote1)</sup>.
 
@@ -72,13 +72,13 @@ People pay good money to have their fish prepared and cooked.  How practical is 
 
 #### The Fish Seller
 
-Fish is a commodity so its price varies and it varies depending on what state it is in.  How can you maximise profits for the fisher and avoid middlemen, brokers and others who would charge the customer merely for moving fish from one customer to another?
+Fish is a commodity so its price varies and it varies depending on what state it is in.  How can you maximise profits for the fisher and avoid middlemen, brokers and others who would charge the customer merely for moving fish from one customer to another?  [More ...](04-fish-seller/README.md)
 
 Of course you will not be left all at sea (note that this Summer School will also encourage the use of feeble fish-based puns).  You will have access to the best experts that can be found on the topic of fish and fishing — some of these are at Cefas (The Centre for Environment Fisheries and Aquaculture Science) but there will also be visit from experts in the economics of fish, automated cookery and you will also have access to the expertise and equipment of the newly opened Institute of Productivity.
 
 But the most important thing is to enjoy yourself - the pandemic has been a killer of collaboration and playful exploration of research ideas.  If we achieve nothing else, we hope we will persuade you of the benefit of practical hands-on discussion and discovery.
 
-Richard Harvey, Kieren Hyder, Robert Blackwell, Rob Lloyd, Michal Mackiewicz, 
+Richard Harvey, Kieren Hyder, Robert Blackwell, Rob Lloyd, Michal Mackiewicz,
 
 ### Footnotes
 <a name="myfootnote1">1</a>: For those of you who want the gory details of British culinary tastes then the URL is provided here.  Trigger warning - you may need a sick bag. https://www.thesun.co.uk/news/14283687/britain-family-meals-roast-dinner-fish-pizza/
