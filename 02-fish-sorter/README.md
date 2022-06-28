@@ -27,7 +27,7 @@ Gmail account to work on this exercise. Please follow the separate
 instructions in setup.pdf how to set the environment so that you could
 utilise your local GPU within Google Colab.
 
-We have created four tasks four you which vary in difficulty. We have
+We have created four tasks for you which vary in difficulty. We have
 attempted to make them independent as much as possible so that you
 will be able to work on them to a certain extent in parallel. It is up
 to you to designate members of your team to different tasks according
