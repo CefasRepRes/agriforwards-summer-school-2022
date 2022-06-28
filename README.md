@@ -60,7 +60,7 @@ It’s quite possible for a fishing boat to spend several days at sea without ca
 
 #### The Fish Catcher
 
-Obviously we could program a robot arm to catch a fish - and we have robot arms available to you so could you program them as proof-of-concept demonstrator?
+Obviously we could program a robot arm to catch a fish - and we have robot arms available to you so could you program them as proof-of-concept demonstrator? [More ...](01-fish-catcher/README.md)
 
 #### The Fish Sorter
 
