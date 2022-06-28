@@ -10,7 +10,7 @@
 |               | Introduction to [the challenge](#the-challenge). (RH)                                             |
 | 14:00 - 15:00 | Get into [teams](#teams) and consider how your would [form a company](start-up.md). (RB)          |
 | 15:00 - 16:00 | Talk: Graham Finlayson on entrepreneurship.                                                       |
-| 16:00 - 17:00 | Talk: Serge TBD                                                                                   |
+| 16:00 - 17:00 | Talk: Serge Raemaekers, Managing Director, Abalobi. (via Teams)                                   |
 |               | Vouchers for dinner                                                                               |
 |               |                                                                                                   |
 |   **Tuesday** |                                                                                                   |
