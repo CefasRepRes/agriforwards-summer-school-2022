@@ -1,6 +1,6 @@
 # Cefas AgriFoRwArdS CDT Visit to Lowestoft, Tuesday 5th July 2022
 
-Welcome to Cefas, Lowestoft (What3words [///itself.cool.eagle](https://w3w.co/apprehend.vandalism.tablet)).
+Welcome to Cefas, Lowestoft (What3words [///itself.cool.eagle](https://w3w.co/itself.cool.eagle)).
 
 09:30 Tea and coffee on arrival
 
@@ -49,6 +49,8 @@ During the lunch period, Stephen Clarke and Martin Cliffen will be on hand to sh
 16:30 Evening: Rounders / Frisbee / Football on the beach, or work on the challenge (weather dependent).
 
 18:00 Meet at Pakefield Plaice to pick up our fish and chips. (What3words [///apprehend.vandalism.tablet](https://w3w.co/apprehend.vandalism.tablet))
+
+19:30 Coach back to UEA, from (What3words [///itself.cool.eagle](https://w3w.co/itself.cool.eagle)).
 
 ## WiFi
 
