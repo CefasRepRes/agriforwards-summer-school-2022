@@ -64,7 +64,7 @@ Obviously we could program a robot arm to catch a fish - and we have robot arms 
 
 #### The Fish Sorter
 
-it’s one thing to catch a fish, it’s another to decide if that fish meet your quota and consumer need.  How easy is it to sort fish?  Perhaps you could produce a proof of concept demonstrator?
+it’s one thing to catch a fish, it’s another to decide if that fish meet your quota and consumer need.  How easy is it to sort fish?  Perhaps you could produce a proof of concept demonstrator? [More ...](02-fish-sorter/README.md)
 
 #### The Fish Cooker
 
