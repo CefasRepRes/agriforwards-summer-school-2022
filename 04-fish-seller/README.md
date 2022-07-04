@@ -23,7 +23,7 @@ they take to pay back that investment?
 
 To make progress on that argument you need answers to Items 1 and 2.
 
-Item 2 might sound daunting but www.abalobi.com, already exhibits some
+Item 2 might sound daunting but www.abalobi.org already exhibits some
 of the features that you might find useful.  There is also developing
 technology for blockchain recording of fish (www.chainzy.com). Recall
 that, in food, traceability and provenance are super important and may
