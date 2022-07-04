@@ -6,8 +6,8 @@ There are many methods of catching fish. However, many of these methods can
 contribute to significant by-catch. It has been shown that commercial fishing 
 with hook and line is more sustainable 
 [[1](https://www.unep.org/news-and-stories/story/maldives-set-example-sustainable-seafood-value-chains)]. 
-The challenge is to now automate this process, so that a number of vessles could 
-act as an automous fleet with the intention of supplying freshly caught fish to a 
+The challenge is to now automate this process! It is hoped that a number of vessles could 
+act as an automous fleet. This is being done with the intention of supplying freshly caught fish to a 
 local, land-based vending site, in a just-in-time supply methodology.
 
 ## Automation of the line fishing process.
@@ -16,7 +16,7 @@ It is the task of the <i>fish-catcher</i> team to provide a working,
 prototype that can perform the operations necessary for fishing 
 with a 'hook-and-line' tackle. (NB: To expedite the demonstration, plastic fish with magnets will be used in initial work). This proof-of-concept will be pesented at an investor event scheduled for Thursday evening.
 
-While the exact methodology of fishing still undecided, there are several 
+While the exact methodology of fishing is still undecided, there are several 
 key steps that the automated fisher must complete. These are:
 
 - Deployment of the fishing tackle.
