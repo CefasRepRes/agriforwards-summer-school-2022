@@ -106,8 +106,11 @@ class fishEnv(gym.Env):
             else:
                 action_permitted = False
 
-        
+        if action_permitted:
+            self._agent_location = desired_location
 
+        else: # action not permitted
+            # self._agent_location is unchanged
 
 
 
