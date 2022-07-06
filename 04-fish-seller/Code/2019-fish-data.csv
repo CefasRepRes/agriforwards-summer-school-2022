@@ -1,5 +1,4 @@
-Fish,Live weight of landings (t),Value,Price,Month
-,,(£000s),(£/tonne),
+Fish,Live weight of landings (t),Value (£1000s),Price (£/tonne),Month
 Bass,49,444,"9,122",11
 Cod,763,"2,378","3,117",11
 Haddock,"1,532","1,894","1,236",11
