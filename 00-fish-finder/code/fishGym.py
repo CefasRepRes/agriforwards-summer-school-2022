@@ -18,9 +18,17 @@ class fishEnv(gym.Env):
         self.observation_space = spaces.Dict(
             {
                 "agent": spaces.Box(0, size - 1, shape=(2,), dtype=int),
-                "target": spaces.Box(0, size - 1, shape=(2,), dtype=int),
             }
         )
+
+        self.location_detail = {} # init empty dict
+        # create a dictionary with keys as locations
+        # values are dictionary of detail of location (navigable/fishable etc)
+        for location in self.observation_space["agent"]:
+            self.location_detail[location] = {
+                "is_navigable":True, #TODO: set true until we know otherwise (and below)
+                "is_fishable":True 
+            }
 
         # We have 5 actions, corresponding to "right", "up", "left", "down" and "fish"
         self.action_space = spaces.Discrete(4)
@@ -75,9 +83,34 @@ class fishEnv(gym.Env):
         # Map the action (element of {0,1,2,3}) to the direction we walk in
         direction = self._action_to_direction[action]
         # We use `np.clip` to make sure we don't leave the grid
-        self._agent_location = np.clip(
-            self._agent_location + direction, 0, self.size - 1
-        )
+        # self._agent_location = np.clip(
+        #     self._agent_location + direction, 0, self.size - 1
+        # )
+        desired_location = np.clip(self._agent_location + direction, 0, self.size - 1)
+
+        # if vessel tries to enter an unavigable location or tries to fish in an unpermitted location
+        # then it will remain in the current location and negative reward applied that equates to 
+        # wasted time and fuel (as if it attempts to enter location but is turned back).
+        
+        action_permitted = None #init
+        # if agent chooses to move (up, down, left, right), test whether the new location is navigable
+        if action in (0,1,2,3):
+            if self.location_detail[desired_location]["is_navigable"]:
+                action_permitted = True
+            else:
+                action_permitted = False
+        # if agent chooses to fish, test whether the new location is fishable
+        if action == 4:
+            if self.location_detail[desired_location]["is_fishable"]:
+                action_permitted = True
+            else:
+                action_permitted = False
+
+        
+
+
+
+
         # An episode is done if the agent has reached the target
         done = np.array_equal(self._agent_location, self._target_location)
         reward = 1 if done else 0  # Binary sparse rewards
