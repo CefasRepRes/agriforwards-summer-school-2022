@@ -105,3 +105,7 @@ https://www.marinetechnologynews.com/news/information-transforming-fishing-world
 [Technological innovations in the recreational fishing sector: implications for fisheries management and policy](https://www.researchgate.net/publication/349535567_Technological_innovations_in_the_recreational_fishing_sector_implications_for_fisheries_management_and_policy)
 
 [Artificial Light in Commercial Industrialized Fishing Applications: A Review](https://www.tandfonline.com/doi/full/10.1080/23308249.2018.1496065)
+
+[How to start a start up](http://www.paulgraham.com/start.html)
+
+[Do things that don’t scale](http://www.paulgraham.com/ds.html)
