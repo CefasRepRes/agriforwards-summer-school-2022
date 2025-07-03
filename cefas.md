@@ -54,6 +54,6 @@ During the lunch period, Stephen Clarke and Martin Cliffen will be on hand to sh
 
 ## WiFi
 
-Guest WiFi access, password `Micr0plastic$`
+Guest WiFi access. Ask for password.
 
 For assistance contact Cefas Service Desk Tel: 01502 524474 Email: servicedesk@cefas.co.uk
